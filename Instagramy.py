@@ -34,8 +34,8 @@ Followers = 0
 time.sleep(5)
 
 # login feature
-username = 'imadrill'
-password = 'Papolxd123'
+username = 'yourusername'
+password = 'yourpassword'
 
 #Serial Send
 def write_read(x):
